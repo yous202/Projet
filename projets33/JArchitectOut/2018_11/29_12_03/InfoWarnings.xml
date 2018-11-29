@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<InfoWarnings>
+  <Info>Begin full analysis with JArchitect v2018.1.0</Info>
+  <Info>Bytecode parsing</Info>
+  <Info>Third Party parsing</Info>
+  <Info>Parsing Source Files</Info>
+  <Warning>Source code info won't be available : Some code metrics like CyclomaticComplexity,Comments,NBLineofCode won't be available.
+Source files directories could be added in the project properties panel</Warning>
+  <Info>PMD is disabled.You can enable it from 'Project Properties=&gt;Plugins Tab' to have more checks</Info>
+  <Info>CheckStyle is disabled.You can enable it from 'Project Properties=&gt;Plugins Tab' to have more checks</Info>
+  <Info>FindBugs is disabled.You can enable it from 'Project Properties=&gt;Plugins Tab' to have more checks</Info>
+  <Info>No dependency cycle detected in assemblies referencement graph.</Info>
+  <Info>Log trend metrics values.</Info>
+  <Warning>1 quality gate fail.
+  - 'Debt Rating per Package' value 3 packages greater than fail threshold 0 packages</Warning>
+  <Info>JArchitect analysis done. Duration: 00:24</Info>
+</InfoWarnings>

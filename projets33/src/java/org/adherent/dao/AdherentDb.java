@@ -13,7 +13,7 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
 import java.util.ArrayList;
-
+import javax.servlet.http.HttpSession;
 import org.adherent.entites.Adherent;
 import org.adherent.entites.Assiss;
 import org.adherent.entites.Biblio;

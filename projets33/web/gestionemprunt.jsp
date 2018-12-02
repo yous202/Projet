@@ -11,7 +11,7 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Gestion Emprunt</title>
+        <title>Gestion Emprunts</title>
     </head>
     <body>
      
@@ -32,8 +32,8 @@
               
                <table border="5" width="70%" align="center">
             <tr>
-            <th width="25%">Numero du livre</th>
-            <th width="25%">Numero de la réservation</th>
+            <th width="25%">Num du livre</th>
+            <th width="25%">Num de la réservation</th>
             
              <th width="25%">Ajouter Emprunt</th>
             </tr>

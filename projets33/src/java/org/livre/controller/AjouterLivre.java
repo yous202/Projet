@@ -41,7 +41,6 @@ public class AjouterLivre extends HttpServlet {
            String idbib = request.getParameter("idbib");
            String nbrexemplaire = request.getParameter("nbrexemplaire");
                         Livre livre = new Livre();
-                        
                         livre.setTitre(titre);
                         livre.setAuteur(auteur);
                         livre.setGenre(genre);
